@@ -26,6 +26,7 @@
 | [1664-ways-to-make-a-fair-array](https://github.com/S-Asghari/LeetCode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/S-Asghari/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/S-Asghari/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/S-Asghari/LeetCode/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1929-concatenation-of-array](https://github.com/S-Asghari/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/S-Asghari/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Simulation
@@ -55,6 +56,7 @@
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/S-Asghari/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Asghari/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/S-Asghari/LeetCode/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
