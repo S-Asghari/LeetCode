@@ -21,6 +21,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/S-Asghari/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/S-Asghari/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/S-Asghari/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/S-Asghari/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/S-Asghari/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/S-Asghari/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/S-Asghari/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -41,6 +42,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Asghari/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1590-make-sum-divisible-by-p](https://github.com/S-Asghari/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,5 +129,6 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/S-Asghari/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/S-Asghari/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
