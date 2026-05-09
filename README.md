@@ -107,4 +107,8 @@
 | [0459-repeated-substring-pattern](https://github.com/S-Asghari/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/S-Asghari/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/S-Asghari/LeetCode/tree/main/0796-rotate-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/S-Asghari/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 <!---LeetCode Topics End-->
