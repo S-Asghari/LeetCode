@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/S-Asghari/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/S-Asghari/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -52,6 +53,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/S-Asghari/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
