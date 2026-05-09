@@ -17,6 +17,7 @@
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/S-Asghari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0941-valid-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
+| [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/S-Asghari/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/S-Asghari/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Asghari/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -71,6 +72,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/S-Asghari/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/S-Asghari/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/S-Asghari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/S-Asghari/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/S-Asghari/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/S-Asghari/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -85,6 +87,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/S-Asghari/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/S-Asghari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/S-Asghari/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/S-Asghari/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## String
@@ -129,6 +132,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/S-Asghari/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0206-reverse-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
