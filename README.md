@@ -7,6 +7,7 @@
 | [0066-plus-one](https://github.com/S-Asghari/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/S-Asghari/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/S-Asghari/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/S-Asghari/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/S-Asghari/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
@@ -92,5 +93,6 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/S-Asghari/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1046-last-stone-weight](https://github.com/S-Asghari/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
