@@ -1,23 +1,5 @@
 class Solution:
-    def reductionOperations(self, nums: List[int]) -> int:
-        # 1. Sort the array
-        # 2. Find the number of occurances for each value
-        # 3. Return the weighted sum
-        
-        # n = len(nums)
-        # min_val = float('inf')
-        # min_count = 0
-        # for num in nums:
-        #     if num < min_val:
-        #         min_val = num
-        #         min_count = 1
-        #     elif num == min_val:
-        #         min_count += 1
-
-        # if n == min_count:
-        #     return 0
-        # else:
-        #     return n - min_count + 1
+    def reductionOperations(self, nums: List[int]) -> int:        
         nums.sort()
         operations = 0
         current_val = nums[0]
