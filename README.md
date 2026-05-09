@@ -22,6 +22,7 @@
 | [1470-shuffle-the-array](https://github.com/S-Asghari/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/S-Asghari/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/S-Asghari/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1664-ways-to-make-a-fair-array](https://github.com/S-Asghari/LeetCode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/S-Asghari/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/S-Asghari/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/S-Asghari/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -130,5 +131,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/S-Asghari/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1664-ways-to-make-a-fair-array](https://github.com/S-Asghari/LeetCode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/S-Asghari/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
