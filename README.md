@@ -77,6 +77,7 @@
 | ------- | ------- |
 | [0482-license-key-formatting](https://github.com/S-Asghari/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/S-Asghari/LeetCode/tree/main/0520-detect-capital/) | Easy |
+| [0831-masking-personal-information](https://github.com/S-Asghari/LeetCode/tree/main/0831-masking-personal-information/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/S-Asghari/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
