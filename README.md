@@ -17,6 +17,7 @@
 | [0636-exclusive-time-of-functions](https://github.com/S-Asghari/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0739-daily-temperatures](https://github.com/S-Asghari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/S-Asghari/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -147,4 +148,8 @@
 | [1590-make-sum-divisible-by-p](https://github.com/S-Asghari/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1664-ways-to-make-a-fair-array](https://github.com/S-Asghari/LeetCode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/S-Asghari/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
