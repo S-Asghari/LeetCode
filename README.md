@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/S-Asghari/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/S-Asghari/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/S-Asghari/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0056-merge-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/S-Asghari/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -153,6 +154,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/S-Asghari/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/S-Asghari/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
