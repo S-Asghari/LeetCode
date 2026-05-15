@@ -10,7 +10,8 @@ class Solution:
                     return findBreakingPoint(l, mid)
                 else: # nums[mid] > nums[r]
                     return findBreakingPoint(mid, r)
-            else: return r
+            else:
+                return r
 
         
         def findTarget(l, r):
