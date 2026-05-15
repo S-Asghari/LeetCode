@@ -34,9 +34,10 @@ class Solution:
         
         n = len(nums)
         max_idx = findBreakingPoint(0, n-1)
-        print(f"max_idx: {max_idx}")
         nums = nums[max_idx+1:n] + nums[0:max_idx+1]
+        
         target_idx = findTarget(0, n-1)
+        
         if target_idx == -1:
             return -1
         else:
