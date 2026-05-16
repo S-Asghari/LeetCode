@@ -20,7 +20,6 @@ class Solution:
             i = j.next
             while i:
                 if i.val < key:
-                    temp_mem = i.val
                     i.val, key = key, i.val
                 i = i.next
             j.val = key
