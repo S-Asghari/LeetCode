@@ -22,6 +22,7 @@
 | [0739-daily-temperatures](https://github.com/S-Asghari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [0932-beautiful-array](https://github.com/S-Asghari/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [0941-valid-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/S-Asghari/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -95,6 +96,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0932-beautiful-array](https://github.com/S-Asghari/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0912-sort-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [0932-beautiful-array](https://github.com/S-Asghari/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
