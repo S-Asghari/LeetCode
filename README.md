@@ -17,6 +17,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-Asghari/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/S-Asghari/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0493-reverse-pairs](https://github.com/S-Asghari/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/S-Asghari/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
@@ -169,6 +170,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/S-Asghari/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0493-reverse-pairs](https://github.com/S-Asghari/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/S-Asghari/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -182,6 +184,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0493-reverse-pairs](https://github.com/S-Asghari/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/S-Asghari/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 ## Quickselect
@@ -191,6 +194,7 @@
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/S-Asghari/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -214,4 +218,16 @@
 | ------- | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/S-Asghari/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/S-Asghari/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/S-Asghari/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
