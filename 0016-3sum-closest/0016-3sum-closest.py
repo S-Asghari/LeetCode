@@ -28,6 +28,7 @@ class Solution:
         n = len(nums)
         nums.sort()
         closest = float('inf')
+        
         for i in range(n-2):
             lo = i+1
             hi = n-1
@@ -35,11 +36,8 @@ class Solution:
                 s = nums[i] + nums[lo] + nums[hi]
                 if abs(target - s) < abs(target - closest):
                     closest = s
-                    if closest == target:
-                        return closest
-                if s < target:
-                    lo += 1
-                elif s > target:
-                    hi -= 1
+                    if closest == target: return closest
+                if s < target: lo += 1
+                elif s > target: hi -= 1
         
         return closest
