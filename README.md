@@ -120,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/S-Asghari/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [0481-magical-string](https://github.com/S-Asghari/LeetCode/tree/main/0481-magical-string/) | Medium |
 | [0482-license-key-formatting](https://github.com/S-Asghari/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/S-Asghari/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0686-repeated-string-match](https://github.com/S-Asghari/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
@@ -189,6 +190,7 @@
 | [0016-3sum-closest](https://github.com/S-Asghari/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/S-Asghari/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/S-Asghari/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0481-magical-string](https://github.com/S-Asghari/LeetCode/tree/main/0481-magical-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
