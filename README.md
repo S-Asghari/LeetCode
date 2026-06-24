@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/S-Asghari/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0016-3sum-closest](https://github.com/S-Asghari/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/S-Asghari/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/S-Asghari/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0056-merge-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -70,6 +71,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/S-Asghari/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/S-Asghari/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/S-Asghari/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
@@ -184,6 +186,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/S-Asghari/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/S-Asghari/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/S-Asghari/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
