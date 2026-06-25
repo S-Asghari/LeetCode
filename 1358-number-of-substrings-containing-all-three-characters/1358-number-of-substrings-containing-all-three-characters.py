@@ -28,7 +28,6 @@ class Solution:
 
         total = 0
         l = 0
-        r = l
         count = {}
         
         for r in range(len(s)):
