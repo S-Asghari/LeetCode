@@ -64,6 +64,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/S-Asghari/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Asghari/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/S-Asghari/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 ## Bit Manipulation
@@ -129,6 +130,7 @@
 | [0796-rotate-string](https://github.com/S-Asghari/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0831-masking-personal-information](https://github.com/S-Asghari/LeetCode/tree/main/0831-masking-personal-information/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/S-Asghari/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/S-Asghari/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,4 +268,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/S-Asghari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/S-Asghari/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
