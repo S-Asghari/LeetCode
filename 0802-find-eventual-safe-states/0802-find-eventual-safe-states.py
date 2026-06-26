@@ -15,11 +15,13 @@ class Solution:
             safe[node] = True
             return True
 
+        result = []
         for node in range(len(graph)):
             if node in safe:
+                if safe[node]:
+                    result.append(node)
                 continue
-            DFS(node)
+            if DFS(node):
+                result.append(node)
         
-        result = [node for node in safe if safe[node] is True]
-        result.sort()
         return result
