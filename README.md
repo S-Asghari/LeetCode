@@ -30,6 +30,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0912-sort-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/S-Asghari/LeetCode/tree/main/0932-beautiful-array/) | Medium |
+| [0934-shortest-bridge](https://github.com/S-Asghari/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [0941-valid-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/S-Asghari/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
@@ -256,12 +257,14 @@
 | [0547-number-of-provinces](https://github.com/S-Asghari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/S-Asghari/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/S-Asghari/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0934-shortest-bridge](https://github.com/S-Asghari/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/S-Asghari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/S-Asghari/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/S-Asghari/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0934-shortest-bridge](https://github.com/S-Asghari/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,4 +285,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/S-Asghari/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0934-shortest-bridge](https://github.com/S-Asghari/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 <!---LeetCode Topics End-->
