@@ -13,15 +13,13 @@ class Solution:
                 visited[i] = True
                 return True
             
-            if i - arr[i] >= 0:
-                if DFS(i - arr[i]):
-                    visited[i] = True
-                    return True
+            if i - arr[i] >= 0 and DFS(i - arr[i]):
+                visited[i] = True
+                return True
             
-            if i + arr[i] < N:
-                if DFS(i + arr[i]):
-                    visited[i] = True
-                    return True
+            if i + arr[i] < N and DFS(i + arr[i]):
+                visited[i] = True
+                return True
             
             return False
 
