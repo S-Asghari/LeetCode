@@ -27,5 +27,4 @@ class Solution:
                 inOrderTraverse(node.right)
         
         inOrderTraverse(root)
-        # if (firstNode is not None) and (secondNode is not None):
         firstNode.val, secondNode.val = secondNode.val, firstNode.val
