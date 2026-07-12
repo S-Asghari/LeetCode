@@ -12,7 +12,7 @@ class Solution:
         for i, c in enumerate(s):
             char = ord(c) - ord('a') + 1
             prefix = ((prefix * base) % mod + char) % mod
-            suffix = (suffix + char * power) % mod
+            suffix = (suffix + (char * power) % mod) % mod
             power = (power * base) % mod
             if prefix == suffix:
                 last_idx = i
