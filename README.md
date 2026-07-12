@@ -139,6 +139,7 @@
 | [0831-masking-personal-information](https://github.com/S-Asghari/LeetCode/tree/main/0831-masking-personal-information/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/S-Asghari/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/S-Asghari/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/S-Asghari/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +168,7 @@
 | [0459-repeated-substring-pattern](https://github.com/S-Asghari/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0686-repeated-string-match](https://github.com/S-Asghari/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/S-Asghari/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1392-longest-happy-prefix](https://github.com/S-Asghari/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,8 +326,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/S-Asghari/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/S-Asghari/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/S-Asghari/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
+| [1392-longest-happy-prefix](https://github.com/S-Asghari/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
