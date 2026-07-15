@@ -24,4 +24,5 @@ class Solution:
             curNode3.next = list1
             list1 = list1.next
             curNode3 = curNode3.next
+        
         return root3
