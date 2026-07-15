@@ -140,6 +140,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/S-Asghari/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/S-Asghari/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/S-Asghari/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/S-Asghari/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +170,7 @@
 | [0686-repeated-string-match](https://github.com/S-Asghari/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
 | [0796-rotate-string](https://github.com/S-Asghari/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/S-Asghari/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/S-Asghari/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0704-binary-search](https://github.com/S-Asghari/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2223-sum-of-scores-of-built-strings](https://github.com/S-Asghari/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,9 +330,15 @@
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/S-Asghari/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/S-Asghari/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/S-Asghari/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/S-Asghari/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [1392-longest-happy-prefix](https://github.com/S-Asghari/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
+| [2223-sum-of-scores-of-built-strings](https://github.com/S-Asghari/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/S-Asghari/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 <!---LeetCode Topics End-->
