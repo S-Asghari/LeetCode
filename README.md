@@ -174,6 +174,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/S-Asghari/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/S-Asghari/LeetCode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/S-Asghari/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/S-Asghari/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
@@ -184,6 +185,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/S-Asghari/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
