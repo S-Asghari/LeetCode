@@ -66,6 +66,7 @@ class Solution:
         # -------------------
         # TIME LIMIT EXCEEDED
         # -------------------
+        
         z = [0 for _ in range(n)]
         z[0] = n
         
