@@ -54,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/S-Asghari/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/S-Asghari/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/S-Asghari/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/S-Asghari/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/S-Asghari/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -140,6 +141,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/S-Asghari/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/S-Asghari/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/S-Asghari/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/S-Asghari/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/S-Asghari/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -187,6 +189,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/S-Asghari/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/S-Asghari/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
