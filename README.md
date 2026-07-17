@@ -349,4 +349,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2223-sum-of-scores-of-built-strings](https://github.com/S-Asghari/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0077-combinations](https://github.com/S-Asghari/LeetCode/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
