@@ -37,6 +37,7 @@
 | [0941-valid-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0941-valid-mountain-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/S-Asghari/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
+| [1052-grumpy-bookstore-owner](https://github.com/S-Asghari/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/S-Asghari/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1306-jump-game-iii](https://github.com/S-Asghari/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/S-Asghari/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -322,6 +323,7 @@
 | [0219-contains-duplicate-ii](https://github.com/S-Asghari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/S-Asghari/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/S-Asghari/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1052-grumpy-bookstore-owner](https://github.com/S-Asghari/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/S-Asghari/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/S-Asghari/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Topological Sort
