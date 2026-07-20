@@ -1,13 +1,11 @@
 class Solution:
     def numOfSubarrays(self, arr: List[int], k: int, threshold: int) -> int:
         n = len(arr)
-        result = 0
-        
         if k > n:
-            return result
+            return 0
         
+        result = 0
         desired_sum = k * threshold
-        total = 0
         r = n # pointer to the end of subarray
         total = sum(arr[r-k:r])
         
