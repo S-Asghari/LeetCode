@@ -1,5 +1,11 @@
-class Solution:
-    def maxSatisfied(self, customers: List[int], grumpy: List[int], minutes: int) -> int:
+class Solution(object):
+    def maxSatisfied(self, customers, grumpy, minutes):
+        """
+        :type customers: List[int]
+        :type grumpy: List[int]
+        :type minutes: int
+        :rtype: int
+        """
         n = len(grumpy)
         not_satisfied = [customers[i] * grumpy[i] for i in range(n)]
         r = n # pointer to the end of the current window
