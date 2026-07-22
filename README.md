@@ -331,6 +331,7 @@
 | [0802-find-eventual-safe-states](https://github.com/S-Asghari/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/S-Asghari/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/S-Asghari/LeetCode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/S-Asghari/LeetCode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [2076-process-restricted-friend-requests](https://github.com/S-Asghari/LeetCode/tree/main/2076-process-restricted-friend-requests/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
