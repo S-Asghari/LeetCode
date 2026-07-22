@@ -322,6 +322,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/S-Asghari/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/S-Asghari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/S-Asghari/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [2076-process-restricted-friend-requests](https://github.com/S-Asghari/LeetCode/tree/main/2076-process-restricted-friend-requests/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +331,7 @@
 | [0802-find-eventual-safe-states](https://github.com/S-Asghari/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/S-Asghari/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/S-Asghari/LeetCode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [2076-process-restricted-friend-requests](https://github.com/S-Asghari/LeetCode/tree/main/2076-process-restricted-friend-requests/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
