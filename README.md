@@ -53,6 +53,7 @@
 | [1732-find-the-highest-altitude](https://github.com/S-Asghari/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/S-Asghari/LeetCode/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1929-concatenation-of-array](https://github.com/S-Asghari/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/S-Asghari/LeetCode/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2073-time-needed-to-buy-tickets](https://github.com/S-Asghari/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -333,6 +334,7 @@
 | [0841-keys-and-rooms](https://github.com/S-Asghari/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/S-Asghari/LeetCode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/S-Asghari/LeetCode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/S-Asghari/LeetCode/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/S-Asghari/LeetCode/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/S-Asghari/LeetCode/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 ## Sliding Window
@@ -381,6 +383,7 @@
 | [0093-restore-ip-addresses](https://github.com/S-Asghari/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/S-Asghari/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/S-Asghari/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/S-Asghari/LeetCode/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
