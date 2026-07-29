@@ -43,6 +43,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/S-Asghari/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/S-Asghari/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1306-jump-game-iii](https://github.com/S-Asghari/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/S-Asghari/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/S-Asghari/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Asghari/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/S-Asghari/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -80,6 +81,7 @@
 | [0523-continuous-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0952-largest-component-size-by-common-factor](https://github.com/S-Asghari/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [1311-get-watched-videos-by-your-friends](https://github.com/S-Asghari/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/S-Asghari/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Asghari/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1590-make-sum-divisible-by-p](https://github.com/S-Asghari/LeetCode/tree/main/1590-make-sum-divisible-by-p/) | Medium |
@@ -100,6 +102,7 @@
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/S-Asghari/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1311-get-watched-videos-by-your-friends](https://github.com/S-Asghari/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Asghari/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/S-Asghari/LeetCode/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 ## Counting Sort
@@ -324,6 +327,7 @@
 | [0934-shortest-bridge](https://github.com/S-Asghari/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/S-Asghari/LeetCode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
 | [1306-jump-game-iii](https://github.com/S-Asghari/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/S-Asghari/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/S-Asghari/LeetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/S-Asghari/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/S-Asghari/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -347,6 +351,7 @@
 | [0802-find-eventual-safe-states](https://github.com/S-Asghari/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0841-keys-and-rooms](https://github.com/S-Asghari/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/S-Asghari/LeetCode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
+| [1311-get-watched-videos-by-your-friends](https://github.com/S-Asghari/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/S-Asghari/LeetCode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/S-Asghari/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/S-Asghari/LeetCode/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
