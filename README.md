@@ -280,6 +280,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [1376-time-needed-to-inform-all-employees](https://github.com/S-Asghari/LeetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/S-Asghari/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +293,7 @@
 | [0101-symmetric-tree](https://github.com/S-Asghari/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/S-Asghari/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
