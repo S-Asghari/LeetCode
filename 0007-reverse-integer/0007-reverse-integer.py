@@ -10,10 +10,8 @@ class Solution:
         while x:
             r = x % 10
             x = x // 10
+            if y > INT_MAX // 10 or (y == INT_MAX // 10 and r > 7):
+                return 0
             y = y * 10 + r
         
-        y = sign * y
-        if INT_MIN <= y <= INT_MAX:
-            return y
-        else:
-            return 0
+        return sign * y
