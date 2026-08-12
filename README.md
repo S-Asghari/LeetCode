@@ -281,6 +281,7 @@
 | [0101-symmetric-tree](https://github.com/S-Asghari/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/S-Asghari/LeetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/S-Asghari/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/S-Asghari/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -296,6 +297,7 @@
 | [0101-symmetric-tree](https://github.com/S-Asghari/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/S-Asghari/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/S-Asghari/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Indexed Tree
@@ -317,6 +319,7 @@
 | [0101-symmetric-tree](https://github.com/S-Asghari/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/S-Asghari/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/S-Asghari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0743-network-delay-time](https://github.com/S-Asghari/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/S-Asghari/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/S-Asghari/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -439,4 +442,8 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/S-Asghari/LeetCode/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/S-Asghari/LeetCode/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 <!---LeetCode Topics End-->
