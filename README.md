@@ -119,6 +119,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/S-Asghari/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/S-Asghari/LeetCode/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -152,6 +153,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0093-restore-ip-addresses](https://github.com/S-Asghari/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0214-shortest-palindrome](https://github.com/S-Asghari/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0394-decode-string](https://github.com/S-Asghari/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -421,6 +423,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0542-01-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 ## Rolling Hash
@@ -462,4 +465,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
