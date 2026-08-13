@@ -3,27 +3,18 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        r, w, b = 0, 0, 0
+        # counting sort
+        colors = [0] * 3
         for num in nums:
-            if num == 0:
-                r += 1
-            elif num == 1:
-                w += 1
-            else: # num == 2
-                b += 1
+            colors[num] += 1
         
-        i = 0
-        while r > 0:
-            nums[i] = 0
-            r -= 1
-            i += 1
-        while w > 0:
-            nums[i] = 1
-            w -= 1
-            i += 1
-        while b > 0:
-            nums[i] = 2
-            b -= 1
-            i += 1
-        
+        i, j = 0, 0
+        while i < len(nums):
+            if colors[j] > 0:
+                nums[i] = j
+                i += 1
+                colors[j] -= 1
+            else:
+                j += 1
+
         return nums
