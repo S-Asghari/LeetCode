@@ -146,6 +146,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/S-Asghari/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/S-Asghari/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/S-Asghari/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
