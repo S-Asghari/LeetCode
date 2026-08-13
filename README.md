@@ -62,6 +62,7 @@
 | [2065-maximum-path-quality-of-a-graph](https://github.com/S-Asghari/LeetCode/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2073-time-needed-to-buy-tickets](https://github.com/S-Asghari/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/S-Asghari/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/S-Asghari/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/S-Asghari/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/S-Asghari/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
