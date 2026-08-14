@@ -182,6 +182,7 @@
 | [0482-license-key-formatting](https://github.com/S-Asghari/LeetCode/tree/main/0482-license-key-formatting/) | Easy |
 | [0520-detect-capital](https://github.com/S-Asghari/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0686-repeated-string-match](https://github.com/S-Asghari/LeetCode/tree/main/0686-repeated-string-match/) | Medium |
+| [0696-count-binary-substrings](https://github.com/S-Asghari/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0796-rotate-string](https://github.com/S-Asghari/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0831-masking-personal-information](https://github.com/S-Asghari/LeetCode/tree/main/0831-masking-personal-information/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/S-Asghari/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -282,6 +283,7 @@
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0481-magical-string](https://github.com/S-Asghari/LeetCode/tree/main/0481-magical-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0696-count-binary-substrings](https://github.com/S-Asghari/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
