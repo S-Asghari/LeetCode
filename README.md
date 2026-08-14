@@ -70,6 +70,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/S-Asghari/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/S-Asghari/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/S-Asghari/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/S-Asghari/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -129,6 +130,7 @@
 | [1311-get-watched-videos-by-your-friends](https://github.com/S-Asghari/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Asghari/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/S-Asghari/LeetCode/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/S-Asghari/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@
 | [0011-container-with-most-water](https://github.com/S-Asghari/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/S-Asghari/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/S-Asghari/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +278,7 @@
 | [0704-binary-search](https://github.com/S-Asghari/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/S-Asghari/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/S-Asghari/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +293,7 @@
 | [0481-magical-string](https://github.com/S-Asghari/LeetCode/tree/main/0481-magical-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0696-count-binary-substrings](https://github.com/S-Asghari/LeetCode/tree/main/0696-count-binary-substrings/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/S-Asghari/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
