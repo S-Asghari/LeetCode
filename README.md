@@ -12,6 +12,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/S-Asghari/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/S-Asghari/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/S-Asghari/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/S-Asghari/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/S-Asghari/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -298,6 +299,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -474,6 +476,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0053-maximum-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0542-01-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/S-Asghari/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
