@@ -81,6 +81,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/S-Asghari/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/S-Asghari/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/S-Asghari/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/S-Asghari/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/S-Asghari/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Simulation
@@ -127,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/S-Asghari/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@
 | [0952-largest-component-size-by-common-factor](https://github.com/S-Asghari/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/S-Asghari/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/S-Asghari/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/S-Asghari/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
