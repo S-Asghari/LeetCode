@@ -32,6 +32,7 @@
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/S-Asghari/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-Asghari/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/S-Asghari/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/S-Asghari/LeetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -134,6 +135,7 @@
 | [0242-valid-anagram](https://github.com/S-Asghari/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/S-Asghari/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/S-Asghari/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -219,6 +221,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/S-Asghari/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/S-Asghari/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/S-Asghari/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Queue
@@ -507,6 +510,7 @@
 | [0022-generate-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/S-Asghari/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
