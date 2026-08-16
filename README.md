@@ -49,6 +49,7 @@
 | [0739-daily-temperatures](https://github.com/S-Asghari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0815-bus-routes](https://github.com/S-Asghari/LeetCode/tree/main/0815-bus-routes/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/S-Asghari/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0877-stone-game](https://github.com/S-Asghari/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0932-beautiful-array](https://github.com/S-Asghari/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [0934-shortest-bridge](https://github.com/S-Asghari/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
@@ -178,6 +179,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0877-stone-game](https://github.com/S-Asghari/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0932-beautiful-array](https://github.com/S-Asghari/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/S-Asghari/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/S-Asghari/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -516,6 +518,7 @@
 | [0053-maximum-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0542-01-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0542-01-matrix/) | Medium |
+| [0877-stone-game](https://github.com/S-Asghari/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/S-Asghari/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Rolling Hash
@@ -579,4 +582,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/S-Asghari/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/S-Asghari/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/S-Asghari/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/S-Asghari/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
