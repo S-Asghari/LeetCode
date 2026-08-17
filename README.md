@@ -89,6 +89,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/S-Asghari/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
+| [1518-water-bottles](https://github.com/S-Asghari/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/S-Asghari/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/S-Asghari/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/S-Asghari/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -189,6 +190,7 @@
 | [0932-beautiful-array](https://github.com/S-Asghari/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/S-Asghari/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/S-Asghari/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1518-water-bottles](https://github.com/S-Asghari/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/S-Asghari/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/S-Asghari/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Monotonic Stack
