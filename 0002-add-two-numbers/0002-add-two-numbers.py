@@ -13,31 +13,25 @@ class Solution:
             node.next = ListNode()
             node = node.next
 
-            summ = 0
+            total = 0
             if l1:
-                summ += l1.val
+                total += l1.val
             if l2:
-                summ += l2.val
-            summ += r
+                total += l2.val
+            total += r
 
-            if summ >= 10:
-                r = summ // 10
-                summ %= 10
+            if total >= 10:
+                r = total // 10
+                total %= 10
             else:
                 r = 0
 
-            print(f"summ: {summ}, r: {r}")
-            node.val = summ
+            node.val = total
             
-            if l1:
-                l1 = l1.next
-            if l2:
-                l2 = l2.next
+            if l1: l1 = l1.next
+            if l2: l2 = l2.next
 
         if r > 0:
-            print(f"yes, r is {r}.")
-            node.next = ListNode()
-            node = node.next
-            node.val = r
+            node.next = ListNode(val=r)
 
         return root.next
