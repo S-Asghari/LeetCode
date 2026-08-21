@@ -81,6 +81,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/S-Asghari/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/S-Asghari/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-Asghari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/S-Asghari/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/S-Asghari/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/S-Asghari/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -125,6 +126,7 @@
 | [1932-merge-bsts-to-create-single-bst](https://github.com/S-Asghari/LeetCode/tree/main/1932-merge-bsts-to-create-single-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/S-Asghari/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/S-Asghari/LeetCode/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-Asghari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/S-Asghari/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -153,6 +155,7 @@
 | [1311-get-watched-videos-by-your-friends](https://github.com/S-Asghari/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Asghari/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/S-Asghari/LeetCode/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/S-Asghari/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/S-Asghari/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
