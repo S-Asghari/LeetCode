@@ -1,18 +1,7 @@
 class Solution:
     def largestInteger(self, nums: List[int], k: int) -> int:
         n = len(nums)
-        # count = {}
-        # for i, num in enumerate(nums):
-        #     if num in count:
-        #         count[num] += min()
 
-        # [1,2,3,4]
-        # i + 3 <= n - 1
-        # i + 2 <= n - 1 and i - 1 >= 0
-        # i + 1 <= n - 1 and i - 2 >= 0
-        #                    i - 3 >= 0
-        # i <= n - k and i >= k - 1 => count += k
-        
         if 1 < k < n:
             middleNums = set(nums[1:n-1])
             greater = max(nums[0], nums[n-1])
@@ -35,7 +24,3 @@ class Solution:
             
         if k == n:
             return max(nums)
-            
-
-
-            
