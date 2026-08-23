@@ -4,47 +4,20 @@ class Solution:
         res = ""
         p = 3
         while num > 0:
-            print(res)
-            print(num)
-            if num >= 1000:
-                d = num // 1000
-                res += conversion[1000] * d
-                num %= 1000
-            
-            elif num >= 100:
-                d = num // 100
+            if num >= 10 ** p:
+                d = num // 10 ** p
                 if 5 <= d <= 8:
-                    res += conversion[500]
-                    num -= 500
+                    res += conversion[5 * 10 ** p]
+                    num -= 5 * 10 ** p
                 elif 1 <= d <= 3:
-                    res += conversion[100] * d
-                    num %= 100
+                    res += conversion[10 ** p] * d
+                    num %= 10 ** p
+                    p -= 1
                 elif d == 4 or d == 9:
-                    res += conversion[100]
-                    num += 100
-            
-            elif num >= 10:
-                d = num // 10
-                if 5 <= d <= 8:
-                    res += conversion[50]
-                    num -= 50
-                elif 1 <= d <= 3:
-                    res += conversion[10] * d
-                    num %= 10
-                elif d == 4 or d == 9:
-                    res += conversion[10]
-                    num += 10
-            
-            elif num >= 1:
-                d = num
-                if 5 <= d <= 8:
-                    res += conversion[5]
-                    num -= 5
-                elif 1 <= d <= 3:
-                    res += conversion[1] * d
-                    num = 0
-                elif d == 4 or d == 9:
-                    res += conversion[1]
-                    num += 1
+                    res += conversion[10 ** p]
+                    num += 10 ** p
+                    p += 1
+            else:
+                p -= 1
 
         return res
