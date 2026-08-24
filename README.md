@@ -92,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/S-Asghari/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/S-Asghari/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1518-water-bottles](https://github.com/S-Asghari/LeetCode/tree/main/1518-water-bottles/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/S-Asghari/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -136,6 +137,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/S-Asghari/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/S-Asghari/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Sorting
@@ -196,6 +198,7 @@
 | [0009-palindrome-number](https://github.com/S-Asghari/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/S-Asghari/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0066-plus-one](https://github.com/S-Asghari/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/S-Asghari/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -226,6 +229,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/S-Asghari/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/S-Asghari/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0067-add-binary](https://github.com/S-Asghari/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0093-restore-ip-addresses](https://github.com/S-Asghari/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0214-shortest-palindrome](https://github.com/S-Asghari/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/S-Asghari/LeetCode/tree/main/0242-valid-anagram/) | Easy |
