@@ -408,6 +408,7 @@
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/S-Asghari/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -434,6 +435,7 @@
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/S-Asghari/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -463,6 +465,7 @@
 | ------- | ------- |
 | [0099-recover-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/S-Asghari/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/S-Asghari/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/S-Asghari/LeetCode/tree/main/0463-island-perimeter/) | Easy |
@@ -485,6 +488,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/S-Asghari/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/S-Asghari/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/S-Asghari/LeetCode/tree/main/0463-island-perimeter/) | Easy |
