@@ -181,6 +181,7 @@
 | [0032-longest-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/S-Asghari/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/S-Asghari/LeetCode/tree/main/0143-reorder-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/S-Asghari/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/S-Asghari/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -414,6 +415,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/S-Asghari/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
@@ -441,6 +443,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/S-Asghari/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
@@ -469,6 +472,7 @@
 | [0099-recover-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0101-symmetric-tree](https://github.com/S-Asghari/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/S-Asghari/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/S-Asghari/LeetCode/tree/main/0463-island-perimeter/) | Easy |
