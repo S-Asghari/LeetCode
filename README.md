@@ -41,6 +41,7 @@
 | [0463-island-perimeter](https://github.com/S-Asghari/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/S-Asghari/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/S-Asghari/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
+| [0503-next-greater-element-ii](https://github.com/S-Asghari/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0542-01-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/S-Asghari/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -187,6 +188,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/S-Asghari/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0394-decode-string](https://github.com/S-Asghari/LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/S-Asghari/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/S-Asghari/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/S-Asghari/LeetCode/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/S-Asghari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -219,6 +221,7 @@
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/S-Asghari/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/S-Asghari/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/S-Asghari/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/S-Asghari/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/S-Asghari/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
