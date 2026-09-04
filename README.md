@@ -32,6 +32,7 @@
 | [0238-product-of-array-except-self](https://github.com/S-Asghari/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/S-Asghari/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/S-Asghari/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/S-Asghari/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-Asghari/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -276,6 +277,7 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/S-Asghari/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/S-Asghari/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/S-Asghari/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/S-Asghari/LeetCode/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -329,6 +331,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/S-Asghari/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/S-Asghari/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/S-Asghari/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/S-Asghari/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
