@@ -13,6 +13,9 @@ class Solution:
         
         # return memo[n]
 
+        # ---------------
+        # Greedy Solution
+        # ---------------
         def recursive(n):
             lg = log(n, 2)
             if floor(lg) == ceil(lg):
@@ -26,3 +29,16 @@ class Solution:
             ) + 1
         
         return recursive(n)
+        # -------------------------
+        # Bit Manipulation Solution
+        # -------------------------
+        count = 0
+        while n:
+            if n & 1:
+                count += 1
+                if n & 2:      # next bit is also 1 -> round up
+                    n += 1
+                else:
+                    n -= 1
+            n >>= 1
+        return count
