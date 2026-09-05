@@ -143,6 +143,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/S-Asghari/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/S-Asghari/LeetCode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/S-Asghari/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -268,6 +269,7 @@
 | [0402-remove-k-digits](https://github.com/S-Asghari/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/S-Asghari/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/S-Asghari/LeetCode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/S-Asghari/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -589,6 +591,7 @@
 | [0877-stone-game](https://github.com/S-Asghari/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/S-Asghari/LeetCode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/S-Asghari/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
