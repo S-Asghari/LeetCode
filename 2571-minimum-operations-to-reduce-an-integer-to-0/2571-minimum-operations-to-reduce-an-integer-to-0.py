@@ -16,19 +16,19 @@ class Solution:
         # ---------------
         # Greedy Solution
         # ---------------
-        def recursive(n):
-            lg = log(n, 2)
-            if floor(lg) == ceil(lg):
-                return 1
-            margin1 = 2 ** floor(lg)
-            margin2 = 2 ** ceil(lg)
+        # def recursive(n):
+        #     lg = log(n, 2)
+        #     if floor(lg) == ceil(lg):
+        #         return 1
+        #     margin1 = 2 ** floor(lg)
+        #     margin2 = 2 ** ceil(lg)
             
-            return min(
-                recursive(n - margin1),
-                recursive(margin2 - n)
-            ) + 1
+        #     return min(
+        #         recursive(n - margin1),
+        #         recursive(margin2 - n)
+        #     ) + 1
         
-        return recursive(n)
+        # return recursive(n)
         # -------------------------
         # Bit Manipulation Solution
         # -------------------------
