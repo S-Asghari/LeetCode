@@ -36,7 +36,8 @@ class Solution:
 
         for u in order[1:]:
             p = parent[u]
-            # remove old cost of p -> u & add new cost of u -> p
+            # When you switch which end you start from (p -> u), the path to any node on u's side doesn't change at all. The path to any node on p's side also doesn't change.
+            # remove old cost of (p -> u) & add new cost of (u -> p)
             answer[u] = answer[p] - cost[u] + (1 - cost[u])
 
         return answer
