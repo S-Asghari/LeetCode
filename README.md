@@ -70,6 +70,7 @@
 | [1200-minimum-absolute-difference](https://github.com/S-Asghari/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
 | [1306-jump-game-iii](https://github.com/S-Asghari/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/S-Asghari/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/S-Asghari/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/S-Asghari/LeetCode/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/S-Asghari/LeetCode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/S-Asghari/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -610,6 +611,7 @@
 | [0877-stone-game](https://github.com/S-Asghari/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/S-Asghari/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/S-Asghari/LeetCode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/S-Asghari/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Rolling Hash
