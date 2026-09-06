@@ -514,6 +514,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/S-Asghari/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/S-Asghari/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/S-Asghari/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/S-Asghari/LeetCode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -542,6 +543,7 @@
 | [1971-find-if-path-exists-in-graph](https://github.com/S-Asghari/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/S-Asghari/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/S-Asghari/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/S-Asghari/LeetCode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -574,6 +576,7 @@
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/S-Asghari/LeetCode/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/S-Asghari/LeetCode/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/S-Asghari/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/S-Asghari/LeetCode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -616,6 +619,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/S-Asghari/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/S-Asghari/LeetCode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/S-Asghari/LeetCode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/S-Asghari/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
