@@ -31,6 +31,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/S-Asghari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/S-Asghari/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/S-Asghari/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/S-Asghari/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/S-Asghari/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -279,6 +280,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/S-Asghari/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/S-Asghari/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/S-Asghari/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/S-Asghari/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -294,6 +296,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/S-Asghari/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/S-Asghari/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-Asghari/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -568,6 +571,7 @@
 | [0076-minimum-window-substring](https://github.com/S-Asghari/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/S-Asghari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/S-Asghari/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/S-Asghari/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/S-Asghari/LeetCode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/S-Asghari/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
@@ -678,6 +682,7 @@
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/S-Asghari/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
@@ -699,4 +704,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/S-Asghari/LeetCode/tree/main/0146-lru-cache/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/S-Asghari/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
