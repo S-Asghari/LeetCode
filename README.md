@@ -216,6 +216,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0829-consecutive-numbers-sum](https://github.com/S-Asghari/LeetCode/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0877-stone-game](https://github.com/S-Asghari/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0932-beautiful-array](https://github.com/S-Asghari/LeetCode/tree/main/0932-beautiful-array/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/S-Asghari/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
@@ -674,6 +675,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/S-Asghari/LeetCode/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/S-Asghari/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
