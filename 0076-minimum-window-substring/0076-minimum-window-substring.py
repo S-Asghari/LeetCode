@@ -1,5 +1,8 @@
 class Solution:
     def minWindow(self, s: str, t: str) -> str:
+        # -------------------
+        # NeetCode's Solution
+        # -------------------
         tCount = {}
         for c in t:
             tCount[c] = tCount.get(c, 0) + 1 
@@ -13,6 +16,7 @@ class Solution:
             ssCount[c] = ssCount.get(c, 0) + 1
             if c in tCount and ssCount[c] == tCount[c]:
                     have += 1
+            
             while have == need:
                 if r - l + 1 < minL:
                     bestSS, minL = [l, r], r - l + 1
