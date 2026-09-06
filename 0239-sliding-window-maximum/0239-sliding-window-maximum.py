@@ -2,6 +2,7 @@ from collections import deque
 
 class Solution:
     def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
+        # NeetCode's Solution
         res = []
         q = deque() # monotonically decreasing queue
 
