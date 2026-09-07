@@ -24,6 +24,7 @@
 | [0088-merge-sorted-array](https://github.com/S-Asghari/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0118-pascals-triangle](https://github.com/S-Asghari/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/S-Asghari/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/S-Asghari/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -619,6 +620,7 @@
 | [0032-longest-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/S-Asghari/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/S-Asghari/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/S-Asghari/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0542-01-matrix/) | Medium |
