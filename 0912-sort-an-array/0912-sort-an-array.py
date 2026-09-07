@@ -1,28 +1,26 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
         def merge(l, r):
-            mid = (l+r) // 2
-            i = l
-            j = mid+1
+            m = (l+r) // 2
+            i, j = l, m
             new_arr = []
-            while i <= mid and j <= r:
+            while i < m and j < r:
                 if nums[i] <= nums[j]:
                     new_arr.append(nums[i])
                     i += 1
                 else:
                     new_arr.append(nums[j])
                     j += 1
-            new_arr += nums[i:mid+1]
-            new_arr += nums[j:r+1]
-            nums[l:r+1] = new_arr
+            if i < m: new_arr += nums[i:m]
+            elif j < r: new_arr += nums[j:r]
+            nums[l:r] = new_arr
 
         def sort(l, r):
-            if l < r:
-                mid = (l+r) // 2
-                sort(l, mid)
-                sort(mid+1, r)
+            if r - l > 1:
+                m = (l+r) // 2
+                sort(l, m)
+                sort(m, r)
                 merge(l, r)
-        
-        n = len(nums)
-        sort(0, n-1)
+
+        sort(0, len(nums))
         return nums
