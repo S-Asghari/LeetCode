@@ -18,6 +18,7 @@ class Solution:
         heapq.heapify(heap)
         for i in range(k, len(nums)):
             if nums[i] > heap[0]:
-                heapq.heappop(heap)
-                heapq.heappush(heap, nums[i])
+                # heapq.heappop(heap)
+                # heapq.heappush(heap, nums[i])
+                heapq.heappushpop(heap, nums[i])
         return heapq.heappop(heap)
