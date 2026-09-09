@@ -14,10 +14,7 @@ class Solution:
         result = 0
 
         while r < len(s):
-            if s[r] not in count:
-                count[s[r]] = 1
-            else:
-                count[s[r]] += 1
+            count[s[r]] = count.get(s[r], 0) + 1
             isValid = True if (r-l+1) - maxCount(count) <= k else False
             if isValid:
                 result = max(result, r-l+1)
