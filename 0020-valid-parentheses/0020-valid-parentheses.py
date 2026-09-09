@@ -13,7 +13,4 @@ class Solution:
             else:
                 if not stack: return False
                 if not self.checkMatch(stack.pop(), s[i]): return False
-        if not stack: 
-            return True
-        else:
-            return False
+        return True if not stack else False
