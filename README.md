@@ -193,6 +193,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/S-Asghari/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/S-Asghari/LeetCode/tree/main/0143-reorder-list/) | Medium |
@@ -251,6 +252,7 @@
 | [0008-string-to-integer-atoi](https://github.com/S-Asghari/LeetCode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/S-Asghari/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/S-Asghari/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/S-Asghari/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -686,6 +688,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Trie
