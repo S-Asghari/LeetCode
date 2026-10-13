@@ -74,6 +74,7 @@
 | [1046-last-stone-weight](https://github.com/S-Asghari/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/S-Asghari/LeetCode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/S-Asghari/LeetCode/tree/main/1200-minimum-absolute-difference/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/S-Asghari/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1306-jump-game-iii](https://github.com/S-Asghari/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/S-Asghari/LeetCode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/S-Asghari/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
@@ -628,6 +629,7 @@
 | [0733-flood-fill](https://github.com/S-Asghari/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0934-shortest-bridge](https://github.com/S-Asghari/LeetCode/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/S-Asghari/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/S-Asghari/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/S-Asghari/LeetCode/tree/main/1765-map-of-highest-peak/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -646,6 +648,7 @@
 | [0542-01-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0877-stone-game](https://github.com/S-Asghari/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/S-Asghari/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/S-Asghari/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/S-Asghari/LeetCode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
