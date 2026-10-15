@@ -44,6 +44,7 @@
 | [0303-range-sum-query-immutable](https://github.com/S-Asghari/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/S-Asghari/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-Asghari/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/S-Asghari/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -270,6 +271,7 @@
 | [0344-reverse-string](https://github.com/S-Asghari/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/S-Asghari/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0394-decode-string](https://github.com/S-Asghari/LeetCode/tree/main/0394-decode-string/) | Medium |
+| [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/S-Asghari/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/S-Asghari/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/S-Asghari/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
@@ -529,6 +531,7 @@
 | [0200-number-of-islands](https://github.com/S-Asghari/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0269-alien-dictionary](https://github.com/S-Asghari/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
+| [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0463-island-perimeter](https://github.com/S-Asghari/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/S-Asghari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
@@ -555,6 +558,7 @@
 | [0200-number-of-islands](https://github.com/S-Asghari/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0269-alien-dictionary](https://github.com/S-Asghari/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
+| [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0463-island-perimeter](https://github.com/S-Asghari/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/S-Asghari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
@@ -581,6 +585,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/S-Asghari/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/S-Asghari/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/S-Asghari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/S-Asghari/LeetCode/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/S-Asghari/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -591,6 +596,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0269-alien-dictionary](https://github.com/S-Asghari/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
+| [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/S-Asghari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/S-Asghari/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/S-Asghari/LeetCode/tree/main/0797-all-paths-from-source-to-target/) | Medium |
@@ -698,6 +704,7 @@
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0743-network-delay-time](https://github.com/S-Asghari/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/S-Asghari/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -785,4 +792,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/S-Asghari/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
