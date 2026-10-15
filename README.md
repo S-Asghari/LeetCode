@@ -601,6 +601,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/S-Asghari/LeetCode/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/S-Asghari/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/S-Asghari/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/S-Asghari/LeetCode/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2076-process-restricted-friend-requests](https://github.com/S-Asghari/LeetCode/tree/main/2076-process-restricted-friend-requests/) | Hard |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/S-Asghari/LeetCode/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
@@ -626,6 +627,7 @@
 | ------- | ------- |
 | [0269-alien-dictionary](https://github.com/S-Asghari/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0802-find-eventual-safe-states](https://github.com/S-Asghari/LeetCode/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/S-Asghari/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -658,6 +660,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/S-Asghari/LeetCode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/S-Asghari/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/S-Asghari/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/S-Asghari/LeetCode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/S-Asghari/LeetCode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/S-Asghari/LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -697,6 +700,7 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/S-Asghari/LeetCode/tree/main/0743-network-delay-time/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/S-Asghari/LeetCode/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/S-Asghari/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/S-Asghari/LeetCode/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/S-Asghari/LeetCode/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## DP on Trees
@@ -777,4 +781,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/S-Asghari/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/S-Asghari/LeetCode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
