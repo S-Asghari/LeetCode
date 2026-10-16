@@ -31,6 +31,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/S-Asghari/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/S-Asghari/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0179-largest-number](https://github.com/S-Asghari/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/S-Asghari/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/S-Asghari/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/S-Asghari/LeetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -174,6 +175,7 @@
 | [0075-sort-colors](https://github.com/S-Asghari/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/S-Asghari/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/S-Asghari/LeetCode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0179-largest-number](https://github.com/S-Asghari/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/S-Asghari/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
@@ -267,6 +269,7 @@
 | [0067-add-binary](https://github.com/S-Asghari/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/S-Asghari/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0093-restore-ip-addresses](https://github.com/S-Asghari/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0179-largest-number](https://github.com/S-Asghari/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0214-shortest-palindrome](https://github.com/S-Asghari/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/S-Asghari/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0269-alien-dictionary](https://github.com/S-Asghari/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
@@ -296,6 +299,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/S-Asghari/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0179-largest-number](https://github.com/S-Asghari/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/S-Asghari/LeetCode/tree/main/0402-remove-k-digits/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
