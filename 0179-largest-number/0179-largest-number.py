@@ -12,6 +12,7 @@ class Solution:
             nums[i] = str(nums[i])
 
         nums = sorted(nums, key = cmp_to_key(self.compare))
+        
         if nums and nums[0] == "0":
             return "0"
         return "".join(nums)
