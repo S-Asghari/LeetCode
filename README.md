@@ -15,6 +15,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/S-Asghari/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/S-Asghari/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/S-Asghari/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
+| [0047-permutations-ii](https://github.com/S-Asghari/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/S-Asghari/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
@@ -167,6 +168,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/S-Asghari/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/S-Asghari/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0047-permutations-ii](https://github.com/S-Asghari/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/S-Asghari/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/S-Asghari/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -691,6 +693,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/S-Asghari/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0047-permutations-ii](https://github.com/S-Asghari/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/S-Asghari/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/S-Asghari/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0113-path-sum-ii](https://github.com/S-Asghari/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
