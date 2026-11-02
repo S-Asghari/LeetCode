@@ -42,6 +42,7 @@
 | [0238-product-of-array-except-self](https://github.com/S-Asghari/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/S-Asghari/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0268-missing-number](https://github.com/S-Asghari/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0269-alien-dictionary](https://github.com/S-Asghari/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0283-move-zeroes](https://github.com/S-Asghari/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/S-Asghari/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -137,6 +138,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/S-Asghari/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/S-Asghari/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/S-Asghari/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/S-Asghari/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/S-Asghari/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/S-Asghari/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -164,6 +166,7 @@
 | ------- | ------- |
 | [0067-add-binary](https://github.com/S-Asghari/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/S-Asghari/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/S-Asghari/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/S-Asghari/LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/S-Asghari/LeetCode/tree/main/2571-minimum-operations-to-reduce-an-integer-to-0/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/S-Asghari/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -182,6 +185,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/S-Asghari/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0268-missing-number](https://github.com/S-Asghari/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/S-Asghari/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/S-Asghari/LeetCode/tree/main/0436-find-right-interval/) | Medium |
@@ -234,6 +238,7 @@
 | [0070-climbing-stairs](https://github.com/S-Asghari/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/S-Asghari/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/S-Asghari/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/S-Asghari/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -401,6 +406,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/S-Asghari/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/S-Asghari/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0268-missing-number](https://github.com/S-Asghari/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0436-find-right-interval](https://github.com/S-Asghari/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0493-reverse-pairs](https://github.com/S-Asghari/LeetCode/tree/main/0493-reverse-pairs/) | Hard |
 | [0633-sum-of-square-numbers](https://github.com/S-Asghari/LeetCode/tree/main/0633-sum-of-square-numbers/) | Medium |
