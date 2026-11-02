@@ -4,22 +4,16 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head:
-            return None
+    def deleteDuplicates(self, head: ListNode | None) -> ListNode | None:
+        leftNode, rightNode = head, head
+        while rightNode:
+            if rightNode.val == leftNode.val:
+                rightNode = rightNode.next
+                continue
+            leftNode.next.val = rightNode.val
+            leftNode = leftNode.next
+            rightNode = rightNode.next
         
-        visited = set()
-        current = head
-        while current is not None:
-            visited.add(current.val)
-            current = current.next
-        visited_list = list(visited)
-        visited_list.sort() 
-
-        cur_val = visited_list.pop()
-        cur_head = ListNode(val=cur_val, next=None)
-        while visited_list:
-            cur_val = visited_list.pop()
-            cur_head = ListNode(val=cur_val, next=cur_head)
-        
-        return cur_head
+        if leftNode: 
+            leftNode.next = None
+        return head
