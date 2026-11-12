@@ -47,6 +47,7 @@
 | [0269-alien-dictionary](https://github.com/S-Asghari/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0283-move-zeroes](https://github.com/S-Asghari/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/S-Asghari/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0332-reconstruct-itinerary](https://github.com/S-Asghari/LeetCode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/S-Asghari/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-Asghari/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
@@ -187,6 +188,7 @@
 | [0242-valid-anagram](https://github.com/S-Asghari/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
 | [0268-missing-number](https://github.com/S-Asghari/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0332-reconstruct-itinerary](https://github.com/S-Asghari/LeetCode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/S-Asghari/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/S-Asghari/LeetCode/tree/main/0436-find-right-interval/) | Medium |
@@ -283,6 +285,7 @@
 | [0214-shortest-palindrome](https://github.com/S-Asghari/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/S-Asghari/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0269-alien-dictionary](https://github.com/S-Asghari/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/S-Asghari/LeetCode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0344-reverse-string](https://github.com/S-Asghari/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/S-Asghari/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0394-decode-string](https://github.com/S-Asghari/LeetCode/tree/main/0394-decode-string/) | Medium |
@@ -340,6 +343,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/S-Asghari/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0253-meeting-rooms-ii](https://github.com/S-Asghari/LeetCode/tree/main/0253-meeting-rooms-ii/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/S-Asghari/LeetCode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/S-Asghari/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-Asghari/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0743-network-delay-time](https://github.com/S-Asghari/LeetCode/tree/main/0743-network-delay-time/) | Medium |
@@ -554,6 +558,7 @@
 | [0200-number-of-islands](https://github.com/S-Asghari/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0269-alien-dictionary](https://github.com/S-Asghari/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/S-Asghari/LeetCode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0463-island-perimeter](https://github.com/S-Asghari/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/S-Asghari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
@@ -619,6 +624,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0269-alien-dictionary](https://github.com/S-Asghari/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/S-Asghari/LeetCode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/S-Asghari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/S-Asghari/LeetCode/tree/main/0743-network-delay-time/) | Medium |
@@ -830,4 +836,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/S-Asghari/LeetCode/tree/main/0051-n-queens/) | Hard |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/S-Asghari/LeetCode/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Eulerian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/S-Asghari/LeetCode/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Semi-Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/S-Asghari/LeetCode/tree/main/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
