@@ -17,6 +17,7 @@
 | [0041-first-missing-positive](https://github.com/S-Asghari/LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0047-permutations-ii](https://github.com/S-Asghari/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/S-Asghari/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/S-Asghari/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/S-Asghari/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -715,6 +716,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/S-Asghari/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/S-Asghari/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0047-permutations-ii](https://github.com/S-Asghari/LeetCode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/S-Asghari/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/S-Asghari/LeetCode/tree/main/0077-combinations/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/S-Asghari/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0113-path-sum-ii](https://github.com/S-Asghari/LeetCode/tree/main/0113-path-sum-ii/) | Medium |
@@ -824,4 +826,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/S-Asghari/LeetCode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
