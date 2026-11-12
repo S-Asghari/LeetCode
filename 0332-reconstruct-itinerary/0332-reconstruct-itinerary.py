@@ -2,9 +2,10 @@ from collections import deque
 
 class Solution:
     def findItinerary(self, tickets: list[list[str]]) -> list[str]:
-        # # -------------------
-        # # NeetCode's solution
-        # # -------------------
+        # -------------------
+        # NeetCode's solution
+        # -------------------
+
         # tickets.sort()
 
         # V = set()
@@ -38,23 +39,49 @@ class Solution:
         # Recursive Hierholzer
         # --------------------
 
-        tickets.sort()
+        # tickets.sort()
+
+        # V = set()
+        # for dep, arr in tickets:
+        #     V.add(dep)
+        #     V.add(arr)
+        
+        # Graph = {v: deque() for v in V} 
+        # for dep, arr in tickets:
+        #     Graph[dep].append(arr)
+
+        # res = []
+
+        # def DFS(dep):
+        #     while Graph[dep]:
+        #         DFS(Graph[dep].popleft())
+        #     res.append(dep)
+
+        # DFS("JFK")
+        # return res[::-1]
+
+        # ------------------------
+        # Non-Recursive Hierholzer
+        # ------------------------
+
+        tickets.sort(reverse = True)
 
         V = set()
         for dep, arr in tickets:
             V.add(dep)
             V.add(arr)
         
-        Graph = {v: deque() for v in V} 
+        Graph = {v: [] for v in V} 
         for dep, arr in tickets:
             Graph[dep].append(arr)
 
+        stack = ["JFK"]
         res = []
 
-        def DFS(dep):
-            while Graph[dep]:
-                DFS(Graph[dep].popleft())
-            res.append(dep)
+        while stack:
+            while Graph[stack[-1]]:
+                stack.append(Graph[stack[-1]].pop())
+            res.append(stack.pop())
 
-        DFS("JFK")
-        return res[::-1]
+        res.reverse()
+        return res
