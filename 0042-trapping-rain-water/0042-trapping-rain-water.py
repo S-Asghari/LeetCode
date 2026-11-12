@@ -22,3 +22,26 @@ class Solution:
                 trappedWater += min(maxLeft[i], maxRight[i]) - height[i]
 
         return trappedWater
+
+        # --------------------------------------------------------
+        # Solution 2: O(n) time complexity, O(1) memory complexity
+        # --------------------------------------------------------
+        n = len(height)
+        l, r = 0, n - 1 # left and right pointers
+        maxLeft, maxRight = 0, 0
+
+        trappedWater = 0
+
+        while l <= r:
+            if maxLeft <= maxRight:
+                if maxLeft - height[l] > 0:
+                    trappedWater += maxLeft - height[l]
+                maxLeft = max(maxLeft, height[l])
+                l += 1
+            else:
+                if maxRight - height[r] > 0:
+                    trappedWater += maxRight - height[r]
+                maxRight = max(maxRight, heigh[r])
+                r -= 1
+
+        return trappedWater
