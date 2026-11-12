@@ -1,3 +1,5 @@
+from collections import deque
+
 class Solution:
     def findItinerary(self, tickets: list[list[str]]) -> list[str]:
         # # -------------------
@@ -32,6 +34,10 @@ class Solution:
         # DFS("JFK")
         # return res
 
+        # --------------------
+        # Recursive Hierholzer
+        # --------------------
+
         tickets.sort()
 
         V = set()
@@ -39,19 +45,15 @@ class Solution:
             V.add(dep)
             V.add(arr)
         
-        Graph = {v: [] for v in V} 
+        Graph = {v: deque() for v in V} 
         for dep, arr in tickets:
             Graph[dep].append(arr)
 
         res = []
 
         def DFS(dep):
-            if not Graph[dep]:
-                res.append(dep)
-                return
-
             while Graph[dep]:
-                DFS(Graph[dep].pop(0))
+                DFS(Graph[dep].popleft())
             res.append(dep)
 
         DFS("JFK")
