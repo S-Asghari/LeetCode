@@ -123,6 +123,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/S-Asghari/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1929-concatenation-of-array](https://github.com/S-Asghari/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/S-Asghari/LeetCode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+| [2296-design-a-text-editor](https://github.com/S-Asghari/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -232,6 +233,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/S-Asghari/LeetCode/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/S-Asghari/LeetCode/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/S-Asghari/LeetCode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2296-design-a-text-editor](https://github.com/S-Asghari/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +314,7 @@
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/S-Asghari/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/S-Asghari/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2223-sum-of-scores-of-built-strings](https://github.com/S-Asghari/LeetCode/tree/main/2223-sum-of-scores-of-built-strings/) | Hard |
+| [2296-design-a-text-editor](https://github.com/S-Asghari/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +342,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/S-Asghari/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/S-Asghari/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0706-design-hashmap](https://github.com/S-Asghari/LeetCode/tree/main/0706-design-hashmap/) | Easy |
+| [2296-design-a-text-editor](https://github.com/S-Asghari/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/S-Asghari/LeetCode/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -382,6 +386,7 @@
 | [0328-odd-even-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0706-design-hashmap](https://github.com/S-Asghari/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [2296-design-a-text-editor](https://github.com/S-Asghari/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -817,6 +822,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/S-Asghari/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [2296-design-a-text-editor](https://github.com/S-Asghari/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
