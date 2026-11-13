@@ -387,6 +387,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/S-Asghari/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0706-design-hashmap](https://github.com/S-Asghari/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2296-design-a-text-editor](https://github.com/S-Asghari/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
@@ -573,6 +574,7 @@
 | [0269-alien-dictionary](https://github.com/S-Asghari/LeetCode/tree/main/0269-alien-dictionary/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/S-Asghari/LeetCode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0463-island-perimeter](https://github.com/S-Asghari/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/S-Asghari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
@@ -828,6 +830,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/S-Asghari/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [2296-design-a-text-editor](https://github.com/S-Asghari/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
