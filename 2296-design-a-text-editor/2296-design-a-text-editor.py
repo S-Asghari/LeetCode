@@ -47,13 +47,13 @@ class TextEditor:
 
     def cursorLeft(self, k: int) -> str:
         for _ in range(min(k, len(self.left))):
-            self.right.append(self.left.pop())
+            self.right.append(self.left.pop()) # right list is in reversed order
         
         return "".join(self.left[-min(10, len(self.left)):])
         
     def cursorRight(self, k: int) -> str:
         for _ in range(min(k, len(self.right))):
-            self.left.append(self.right.pop())
+            self.left.append(self.right.pop()) # right list is in reversed order
         
         return "".join(self.left[-min(10, len(self.left)):])
 
