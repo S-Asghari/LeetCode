@@ -33,6 +33,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-Asghari/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/S-Asghari/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/S-Asghari/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0139-word-break](https://github.com/S-Asghari/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/S-Asghari/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0179-largest-number](https://github.com/S-Asghari/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/S-Asghari/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -137,6 +138,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/S-Asghari/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/S-Asghari/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/S-Asghari/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/S-Asghari/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/S-Asghari/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/S-Asghari/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -286,6 +288,7 @@
 | [0067-add-binary](https://github.com/S-Asghari/LeetCode/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/S-Asghari/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0093-restore-ip-addresses](https://github.com/S-Asghari/LeetCode/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0139-word-break](https://github.com/S-Asghari/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0179-largest-number](https://github.com/S-Asghari/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0214-shortest-palindrome](https://github.com/S-Asghari/LeetCode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0242-valid-anagram](https://github.com/S-Asghari/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -699,6 +702,7 @@
 | [0070-climbing-stairs](https://github.com/S-Asghari/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/S-Asghari/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/S-Asghari/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0139-word-break](https://github.com/S-Asghari/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/S-Asghari/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/S-Asghari/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
@@ -770,6 +774,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/S-Asghari/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0139-word-break](https://github.com/S-Asghari/LeetCode/tree/main/0139-word-break/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -817,6 +822,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/S-Asghari/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/S-Asghari/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/S-Asghari/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -863,4 +869,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/S-Asghari/LeetCode/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/S-Asghari/LeetCode/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
