@@ -508,6 +508,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/S-Asghari/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0563-binary-tree-tilt](https://github.com/S-Asghari/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -539,6 +540,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/S-Asghari/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/S-Asghari/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/S-Asghari/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0563-binary-tree-tilt](https://github.com/S-Asghari/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/S-Asghari/LeetCode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -579,6 +581,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0463-island-perimeter](https://github.com/S-Asghari/LeetCode/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/S-Asghari/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0563-binary-tree-tilt](https://github.com/S-Asghari/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 | [0733-flood-fill](https://github.com/S-Asghari/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/S-Asghari/LeetCode/tree/main/0743-network-delay-time/) | Medium |
@@ -772,6 +775,7 @@
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0563-binary-tree-tilt](https://github.com/S-Asghari/LeetCode/tree/main/0563-binary-tree-tilt/) | Easy |
 | [0687-longest-univalue-path](https://github.com/S-Asghari/LeetCode/tree/main/0687-longest-univalue-path/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
