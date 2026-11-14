@@ -148,6 +148,7 @@
 | [0268-missing-number](https://github.com/S-Asghari/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/S-Asghari/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/S-Asghari/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0432-all-oone-data-structure](https://github.com/S-Asghari/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/S-Asghari/LeetCode/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/S-Asghari/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -345,6 +346,7 @@
 | [0155-min-stack](https://github.com/S-Asghari/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/S-Asghari/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/S-Asghari/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0432-all-oone-data-structure](https://github.com/S-Asghari/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0706-design-hashmap](https://github.com/S-Asghari/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [2296-design-a-text-editor](https://github.com/S-Asghari/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/S-Asghari/LeetCode/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
@@ -389,6 +391,7 @@
 | [0206-reverse-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0432-all-oone-data-structure](https://github.com/S-Asghari/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0706-design-hashmap](https://github.com/S-Asghari/LeetCode/tree/main/0706-design-hashmap/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [2296-design-a-text-editor](https://github.com/S-Asghari/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
@@ -843,6 +846,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/S-Asghari/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/S-Asghari/LeetCode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0432-all-oone-data-structure](https://github.com/S-Asghari/LeetCode/tree/main/0432-all-oone-data-structure/) | Hard |
 | [2296-design-a-text-editor](https://github.com/S-Asghari/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
