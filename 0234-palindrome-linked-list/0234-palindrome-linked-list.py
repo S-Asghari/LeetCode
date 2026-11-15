@@ -37,17 +37,45 @@ class Solution:
     # -------------------------------------------
     # O(n) Space Complexity, O(n) Time Complexity
     # -------------------------------------------
-        nums = []
+        # nums = []
 
-        cur = head
-        while cur:
-            nums.append(cur.val)
-            cur = cur.next
+        # cur = head
+        # while cur:
+        #     nums.append(cur.val)
+        #     cur = cur.next
         
-        l, r = 0, len(nums) - 1
-        while l <= r:
-            if nums[l] != nums[r]:
+        # l, r = 0, len(nums) - 1
+        # while l <= r:
+        #     if nums[l] != nums[r]:
+        #         return False
+        #     l += 1
+        #     r -= 1
+        # return True
+
+    # -------------------------------------------
+    # O(1) Space Complexity, O(n) Time Complexity
+    # -------------------------------------------
+    # NeetCode's solution
+        fast, slow = head, head
+        
+        # Find middle (slow)
+        while fast and fast.next:
+            fast = fast.next.next
+            slow = slow.next
+        
+        # Reverse second half
+        prv = None
+        while slow:
+            nxt = slow.next
+            slow.next = prv
+            prv = slow
+            slow = nxt
+        
+        # Check palindrome
+        left, right = head, prv
+        while right:
+            if left.val != right.val:
                 return False
-            l += 1
-            r -= 1
+            left = left.next
+            right = right.next
         return True
