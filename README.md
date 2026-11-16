@@ -55,6 +55,7 @@
 | [0347-top-k-frequent-elements](https://github.com/S-Asghari/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/S-Asghari/LeetCode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0399-evaluate-division](https://github.com/S-Asghari/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/S-Asghari/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0436-find-right-interval](https://github.com/S-Asghari/LeetCode/tree/main/0436-find-right-interval/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/S-Asghari/LeetCode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -735,6 +736,7 @@
 | [0139-word-break](https://github.com/S-Asghari/LeetCode/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/S-Asghari/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/S-Asghari/LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0416-partition-equal-subset-sum](https://github.com/S-Asghari/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/S-Asghari/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/S-Asghari/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/S-Asghari/LeetCode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -911,4 +913,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/S-Asghari/LeetCode/tree/main/0139-word-break/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/S-Asghari/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/S-Asghari/LeetCode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
